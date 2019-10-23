@@ -1,0 +1,6 @@
+[all]
+controller.example.com
+managed.example.com
+[single]
+controller.example.com
+centos7.example.com
